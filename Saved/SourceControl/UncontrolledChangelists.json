@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Engine Projects/Survival_Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/3N/4V0FJA20K1J2UF4LAANZXA.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3G/TVTN534Z7CXLUHS6K1L2KW.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/LT/4MU90A35UK558FKW4R5DCZ.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/N2/01FKKSKE5MEJP6TIHHKN43.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/95/QWOOQIZKVNSL92QDWIQ2N0.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/PW/Q9ZH18PWB8E0ACHLSGLH28.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/86/5IU81EH1G61TMS1ZYOUNMG.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HQ/31NJFTQQE31YXAZP7YIUW8.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/EA/ELK3R4MA717Q7BROR0CR81.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/76/C4Q9X3W45PHIVBHO9WJKCF.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/MV/OSTBID8ASSHUFQTG4WA3D2.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/UM/PY9NS9J88GC5R7TP6NWPCI.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/IA/9XLIH4P38CQT5TO0N63ROV.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/ARPG_Warrior_Anim_rig_Attack_Airborne_End.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/ARPG_Warrior_Anim_rig_Attack_Airborne_Mid.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/ARPG_Warrior_Anim_rig_Attack_Airborne_Start.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/ARPG_Warrior_Anim_rig_Attack_Combo1.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/ARPG_Warrior_Anim_rig_Attack_Combo2.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/ARPG_Warrior_Anim_rig_Attack_Combo3.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/ARPG_Warrior_Anim_rig_Attack_Combo4.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/ARPG_Warrior_Anim_rig_Attack_Dodge.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/ARPG_Warrior_Anim_rig_Attack_Dodge_to_Combo1.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/ARPG_Warrior_Anim_rig_Attack_Heavy1.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/ARPG_Warrior_Anim_rig_Attack_Heavy2.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/ARPG_Warrior_Anim_rig_Attack_Heavy1_Start.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/ARPG_Warrior_Anim_rig_Attack_Sprint.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Input/Actions/IA_Attack.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
