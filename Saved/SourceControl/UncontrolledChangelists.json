@@ -34,7 +34,26 @@
 				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/ARPG_Warrior_Anim_rig_Attack_Sprint.uasset",
 				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Input/Actions/IA_Attack.uasset",
 				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Airborne_End.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Airborne_Mid.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Airborne_Start.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Combo1.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Combo2.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Combo3.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Combo4.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Dodge.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Dodge_to_Combo1.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Heavy1.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Heavy2.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Heavy1_Start.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Sprint.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Combo1_Montage.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Combo2_Montage.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Combo3_Montage.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/ThirdPerson/Animations/Attack/ARPG_Warrior_Anim_rig_Attack_Combo4_Montage.uasset",
+				"D:/Unreal Engine Projects/Survival_Project/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset"
 			]
 		}
 	]
